@@ -4,13 +4,13 @@
   "files": [
     {
       "name": "atlantic-4.4.180plus-apollolake.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atlantic/releases/atlantic-4.4.180plus-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/ObiYoann/rp-ext/main/atlantic/releases/atlantic-4.4.180plus-apollolake.tgz",
       "sha256": "60613949b3dde7b3a3e77fdaaa6c145156e8d12bc1bde147eef3a620195d9524",
       "packed": true
     },
     {
       "name": "check-atlantic.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atlantic/src/check-atlantic.sh",
+      "url": "https://raw.githubusercontent.com/ObiYoann/rp-ext/main/atlantic/src/check-atlantic.sh",
       "sha256": "4c6b0176cdf63dc9c714d673df93c5d049e4d2d0815f4e047cd5adc2ae0145a1",
       "packed": false
     }
